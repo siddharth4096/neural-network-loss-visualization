@@ -55,7 +55,7 @@ This Machine Learning project explores how modifying individual weights of a neu
 ## 📚 References
 
 - [📘 MLPClassifier Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
-- [🌸 Iris Dataset - UCI Repository](https://archive.ics.uci.edu/ml/datasets/irishttps://www.kaggle.com/datasets/uciml/iris)
+- 🌸 Iris Dataset : https://www.kaggle.com/datasets/uciml/iris
 
 ---
 
