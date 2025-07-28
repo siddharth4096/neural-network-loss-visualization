@@ -44,18 +44,6 @@ This Machine Learning project explores how modifying individual weights of a neu
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 neural-network-loss-visualizer/
-├── model_training.ipynb        # Main Jupyter notebook with training and visualization
-├── utils.py                    # Optional: Helper functions for plotting or analysis
-├── images/                     # Folder for screenshots/plots
-├── README.md                   # This file
-```
-
----
-
 ## 🚀 Future Enhancements
 
 - [ ] Extend to **2D weight variation** (heatmaps/surface plots)
@@ -78,11 +66,6 @@ This Machine Learning project explores how modifying individual weights of a neu
 
 ---
 
-## 🔗 GitHub Repository
-
-> 📍 [View the Project on GitHub](https://github.com/siddharth4096/iris-neural-network-app)
-
----
 
 ## 📢 More ML Projects Coming Soon!
 
