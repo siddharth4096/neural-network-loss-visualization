@@ -30,15 +30,7 @@ This Machine Learning project explores how modifying individual weights of a neu
 
 ### 🔹 Surface Plot for Varying W1
 
-![W1 Plot](images/w1_surface.png)
-
-### 🔹 Error Variation (Line Plot)
-
-![W2 Line Plot](images/w2_error.png)
-
-> 📌 To add your own screenshots:
-> - Place them in an `images/` folder in the repo
-> - Use `![Alt](images/your_image.png)` to embed
+![W1 Plot](https://github.com/siddharth4096/neural-network-loss-visualization/blob/643146f781de76edbb033e56f2d31c4958df22f7/output.png)
 
 ---
 
